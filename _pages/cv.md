@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemistry, Université Sorbonne Paris Nord, 2020
-* M.S. in Nutritional sciences, Université Clermont Auvergne, 2015
-* B.S. in Cell Biology and Physiology, Université Clermont Auvergne, 2013
+* Ph.D in Chemistry, Université Sorbonne Paris Nord, France, 2020
+* M.S. in Nutritional sciences, Université Clermont Auvergne, France, 2015
+* B.S. in Cell Biology and Physiology, Université Clermont Auvergne, France, 2013
 
 Research experience
 ======
@@ -34,12 +34,15 @@ Research experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical chemistry
+  * Chromatography, liquid chromatography, gas chromatography
+  * Mass spectrometry
+  * NMR spectroscopy
+* Chemometrics
+  * Multivariate data analysis
+* Omics data analysis 
+  * Metabolomics, lipidomics, exposomics
+  * Multi-omics data integration
 
 Publications
 ======
