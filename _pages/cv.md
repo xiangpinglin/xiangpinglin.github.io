@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemistry, Université Sorbonne Paris Nord, 2020
+* M.S. in Nutritional sciences, Université Clermont Auvergne, 2015
+* B.S. in Cell Biology and Physiology, Université Clermont Auvergne, 2013
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
