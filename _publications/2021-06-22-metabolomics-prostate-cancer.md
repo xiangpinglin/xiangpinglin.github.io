@@ -9,7 +9,7 @@ venue: 'Cancers'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.3390/cancers13133140'
 bibtexurl: 'https://xiangpinglin.github.io/files/2021-06-22-metabolomics-prostate-cancer.bib'
-citation: 'Lin X, Lécuyer L, Liu X, Triba MN, Deschasaux-Tanguy M, Demidem A, Liu Z, Palama T, Rossary A, Vasson MP, Hercberg S, Galan P, Savarin P, Xu G, Touvier M. Plasma Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry. Cancers (Basel). 2021 Jun 23;13(13):3140. doi: 10.3390/cancers13133140.'
+#citation: 'Lin X, Lécuyer L, Liu X, Triba MN, Deschasaux-Tanguy M, Demidem A, Liu Z, Palama T, Rossary A, Vasson MP, Hercberg S, Galan P, Savarin P, Xu G, Touvier M. Plasma Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry. Cancers (Basel). 2021 Jun 23;13(13):3140. doi: 10.3390/cancers13133140.'
 ---
 
 Abstract:\
