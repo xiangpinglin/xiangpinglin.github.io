@@ -1,7 +1,7 @@
 ---
 title: 'Environmental Metabolomics special issue'
 date: 2026-04-23
-permalink: /posts/2026/04/metabolites-special_issues-01/
+permalink: /posts/2026/04/metabolites-special-issues-01/
 tags:
   - Air pollution
   - Environmental health
