@@ -3,12 +3,12 @@ title: 'Environmental Metabolomics special issue'
 date: 2026-04-23
 permalink: /posts/2026/04/metabolites-special-issues/
 tags:
+  - Academic
   - Air pollution
   - Environmental health
   - Exposomics
-  - Metabolomics
   - Mass spectrometry
-  - PFAS
+  - Metabolomics
 ---
 
 From Environmental Exposures to Health: Metabolic Signatures in Exposome Research
