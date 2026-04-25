@@ -43,7 +43,7 @@ I serve on the **[Early Career Editorial Board](https://www.mdpi.com/news/14173)
 My technical skills span:
 - **Analytical Chemistry**: LC-MS method development, NMR spectroscopy, sample preparation optimization
 - **Computational**: R and Python programming, statistical analysis
-- **Research Areas**: Mass spectrometry‬, ‪Metabolomics‬‬, Environmental health
+- **Research Areas**: Mass spectrometry, Metabolomics, Environmental health
 
 ## Looking Forward
 
