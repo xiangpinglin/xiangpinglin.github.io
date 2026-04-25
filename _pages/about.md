@@ -36,7 +36,7 @@ Through these programs, I guide students in analyzing health disparities, enviro
 
 ## Professional Service
 
-I serve on the **[Early Career Editorial Board](https://www.mdpi.com/news/14173)** of journal *[Metabolites](https://www.mdpi.com/journal/metabolites)* (2025-Present) and am an active member of the [American Society for Mass Spectrometry](https://www.asms.org/) and Stanford Medicine Children's Health Center for IBD and Celiac Disease. I regularly serve as a peer reviewer for journals including *Nature Communications*, *Cell Reports Medicine*, and *Analytical Chemistry*.
+I serve on the **[Early Career Editorial Board](https://www.mdpi.com/news/14173)** of journal *[Metabolites](https://www.mdpi.com/journal/metabolites)* (2025-Present) and am an active member of the [American Society for Mass Spectrometry](https://www.asms.org/) and Stanford Medicine Children's Health Center for IBD and Celiac Disease. I regularly serve as a peer reviewer for journals including *[Nature Communications](https://www.nature.com/ncomms/)*, *[Analytical Chemistry](https://pubs.acs.org/journal/ancham)*, and *[Analytica Chimica Acta](https://www.sciencedirect.com/journal/analytica-chimica-acta)*.
 
 ## Technical Expertise
 
