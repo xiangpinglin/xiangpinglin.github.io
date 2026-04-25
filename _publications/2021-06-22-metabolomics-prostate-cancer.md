@@ -6,10 +6,11 @@ permalink: /publication/2021-06-22-metabolomics-prostate-cancer
 excerpt: 'Correct identification of subjects at high risk is critical in the prevention and early screening of prostate cancer (PCa). Analysis of metabolites in biofluids has shown to be a promising method to identify novel PCa biomarkers. To identify potential biomarkers of PCa, we conducted metabolic profiling of pre-diagnosis plasma metabolite profiles from a large prospective male cohort (n = 418), which included 146 males who developed PCa during a 13-year follow-up and 272 matched controls to investigate the relationship with long-term PCa risk. We show metabolite profiles discriminate males who subsequently developed PCa during the follow-up from matched controls with a high degree of accuracy (AU-ROC 0.92) and highlight 10 metabolites associated with a high risk of PCa. These results suggest that the dysregulation of amino acids and sphingolipid metabolism is associated with future risk of PCa.'
 date: 2021-06-22
 venue: 'Cancers'
+link: 'https://doi.org/10.3390/cancers13133140'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://doi.org/10.3390/cancers13133140'
-bibtexurl: 'https://xiangpinglin.github.io/files/2021-06-22-metabolomics-prostate-cancer.bib'
-#citation: 'Lin X, Lécuyer L, Liu X, Triba MN, Deschasaux-Tanguy M, Demidem A, Liu Z, Palama T, Rossary A, Vasson MP, Hercberg S, Galan P, Savarin P, Xu G, Touvier M. Plasma Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry. Cancers (Basel). 2021 Jun 23;13(13):3140. doi: 10.3390/cancers13133140.'
+#paperurl: 'https://doi.org/10.3390/cancers13133140'
+#bibtexurl: 'https://xiangpinglin.github.io/files/2021-06-22-metabolomics-prostate-cancer.bib'
+citation: 'Lin X, Lécuyer L, Liu X, Triba MN, Deschasaux-Tanguy M, Demidem A, Liu Z, Palama T, Rossary A, Vasson MP, Hercberg S, Galan P, Savarin P, Xu G, Touvier M. Plasma Metabolomics for Discovery of Early Metabolic Markers of Prostate Cancer Based on Ultra-High-Performance Liquid Chromatography-High Resolution Mass Spectrometry. Cancers (Basel). 2021 Jun 23;13(13):3140. doi: 10.3390/cancers13133140.'
 ---
 
 Abstract
