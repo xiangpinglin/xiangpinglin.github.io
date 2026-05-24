@@ -37,4 +37,4 @@ Dr. Guozhu Ye
 
 *Guest Editors*
 
-For more information, please visit the Special Issue [Website](https://www.mdpi.com/journal/metabolites/special_issues/2PV0532D57).
+For more information, please visit the [Special Issue Website](https://www.mdpi.com/journal/metabolites/special_issues/2PV0532D57).
