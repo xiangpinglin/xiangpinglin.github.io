@@ -9,7 +9,7 @@ redirect_from:
 
 ## Bio
 
-I am a postdoctoral scholar at [Stanford University](https://www.stanford.edu/). My research has primarily focused on [mass spectrometry](https://en.wikipedia.org/wiki/Mass_spectrometry), [metabolomics](https://en.wikipedia.org/wiki/Metabolomics), and [Olink® Proteomics](https://olink.com/technology/what-is-pea), with applications in both [biomedical research](https://en.wikipedia.org/wiki/Medical_research) and [environmental health](https://en.wikipedia.org/wiki/Environmental_health). I am particularly interested in leveraging these technologies to investigate the molecular mechanisms underlying diseases and to assess the effects of environmental exposures on human health.
+I am a postdoctoral scholar at [Stanford University](https://www.stanford.edu/). My research has primarily focused on [mass spectrometry](https://en.wikipedia.org/wiki/Mass_spectrometry), [metabolomics](https://en.wikipedia.org/wiki/Metabolomics), and [olink proteomics](https://olink.com/technology/what-is-pea), with applications in both [biomedical research](https://en.wikipedia.org/wiki/Medical_research) and [environmental health](https://en.wikipedia.org/wiki/Environmental_health). I am particularly interested in leveraging these technologies to investigate the molecular mechanisms underlying diseases and to assess the effects of environmental exposures on human health.
 
 ## Research
 
